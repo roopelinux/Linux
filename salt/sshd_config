@@ -28,3 +28,4 @@ AcceptEnv LANG LC_*
 Subsystem sftp /usr/lib/openssh/sftp-server
 UsePAM yes
 
+##SSDH_CONFIG WITHOUT USELESS LINES EXCEPT THIS ONE##
